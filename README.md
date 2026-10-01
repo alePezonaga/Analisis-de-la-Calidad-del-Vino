@@ -1,1 +1,5 @@
-# Analisis-de-la-Calidad-del-Vino
+# Analisis-de-la-Calidad-del-Vino 🍷 
+Este repositorio contiene un proyecto enfocado en el análisis de la calidad del vino mediante la aplicación de técnicas de aprendizaje automático (Machine Learning). El objetivo principal de este proyecto es construir un modelo predictivo capaz de estimar la calidad del vino a partir de sus diferentes características físico-químicas.   
+Fases y Contenido del Análisis del Dataset: Se trabaja con un conjunto de datos que incluye 1600 filas y 12 variables en total.   Variables: 11 características químicas del vino y 1 variable objetivo (calidad) con valores en una escala del 0 al 10.   
+Fase Exploratoria: Análisis estadístico y visualización de la distribución de las variables utilizando herramientas como pandas, matplotlib y seaborn, identificación de distribuciones asimétricas (especialmente en las variables relacionadas con el dióxido de azufre), lo que resalta la necesidad de aplicar procesos de estandarización previos al modelado.   Análisis de correlación entre las variables químicas y la calidad del vino.   
+Tecnologías y Librerías Utilizadas: PythonPandas y NumPy (Manipulación y análisis de datos), Matplotlib y Seaborn (Visualización de datos)   
